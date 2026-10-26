@@ -25,3 +25,5 @@ You need Android Studio, Android SDK Platform 35, JDK 17, and internet access to
 
 - The list includes Planet Cinema and Cinema City in Be'er Sheva only.
 - Language attributes vary between providers. Cinema City's API does return language fields, but the exact set can change; unknown values should not be treated as confirmed.
+
+<img width="320" alt="photo_2026-10-26_19-12-37" src="https://github.com/user-attachments/assets/0154e726-4735-464b-8117-3970855302a7" />
